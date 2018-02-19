@@ -3,7 +3,7 @@ require('dotenv').load();
 const request = require('request');
 const imessage = require('osa-imessage');
 
-const startLoop = setInterval(() => { loopFn() }, 300000); //sets to ping very 5 minutes
+const startLoop = setInterval(() => { loopFn() }, 300000); //sets to ping every 5 minutes
 const stopLoop = () => { clearInterval(startLoop); }
 
 
