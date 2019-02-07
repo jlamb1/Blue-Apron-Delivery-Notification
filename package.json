@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^5.0.0",
-    "osa-imessage": "^2.4.0",
-    "request": "^2.83.0",
-    "sqlite3": "^3.1.13"
+    "dotenv": "^6",
+    "osa-imessage": "^2.4.2",
+    "request": "^2.88.0",
+    "sqlite3": "^4"
   }
 }
